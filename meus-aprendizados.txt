@@ -1,0 +1,5 @@
+Olá, meu nome é Miguel Magalhães Drechsler e atualmente curso Ciência da Computação na CESAR School. No meu 1º período, adquiri conhecimentos importantes que serviram como base para minha formação na área de tecnologia.
+
+Iniciei meus estudos em programação com Portugol e Python, desenvolvendo lógica computacional e criando meus primeiros códigos. Também tive contato com Arduino, aprendendo conceitos básicos de eletrônica e automação, além de estudar Arquitetura de Computadores para entender melhor o funcionamento interno das máquinas.
+
+Além das disciplinas técnicas, participei de palestras com profissionais da área, que ajudaram a compreender melhor o mercado de trabalho em tecnologia. Outro aprendizado importante foi o uso de Git e GitHub, ferramentas essenciais para versionamento e colaboração em projetos de software.
